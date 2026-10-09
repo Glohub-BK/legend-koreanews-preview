@@ -1,0 +1,92 @@
+[
+  {
+    "id": "20261010-01-future-fund",
+    "name": "재정 · 162조 계획과 통제",
+    "url": "20261010-01-future-fund.mp4",
+    "duration": 86.066667,
+    "bytes": 29030092,
+    "sha256": "88fd25a2ff4d99bcbe6baa1f590a1f360cad2bad74c0a05624c09d89c7e3b49d",
+    "max_silence": 0.7579789999999988
+  },
+  {
+    "id": "20261010-02-farmland",
+    "name": "농지 · 보호 기준과 조사",
+    "url": "20261010-02-farmland.mp4",
+    "duration": 87.033333,
+    "bytes": 45526736,
+    "sha256": "1b7336d362f4739c869191c5400a099910cc4275dc2a843f1350530d2fd94c3b",
+    "max_silence": 0.7651250000000012
+  },
+  {
+    "id": "20261010-03-information-sharing",
+    "name": "안보 · 정보공유 일부 제한",
+    "url": "20261010-03-information-sharing.mp4",
+    "duration": 88.933333,
+    "bytes": 53047089,
+    "sha256": "d3837bae0e8bf912b4e88e55f384861a6b5ff9fa6e2424306fe6a025e899ecaf",
+    "max_silence": 0.7490829999999988
+  },
+  {
+    "id": "20261008-01-independence",
+    "name": "수사기관 · 독립성",
+    "url": "20261008-01-independence.mp4",
+    "duration": 88.3,
+    "bytes": 46092499,
+    "sha256": "ed199596ab1b155ec081755774277cd3489fd3b65959a64722115a3e376f6a25",
+    "max_silence": 0.7514579999999995
+  },
+  {
+    "id": "20261008-02-housing",
+    "name": "주택 · 허가와 입주",
+    "url": "20261008-02-housing.mp4",
+    "duration": 91.2,
+    "bytes": 47131386,
+    "sha256": "30d3a74da9e04275002332531533a090af9d22405532875d080dd9bfe805f32b",
+    "max_silence": 0.7445829999999916
+  },
+  {
+    "id": "20261008-03-green-transition",
+    "name": "녹색전환 · 돈과 성과",
+    "url": "20261008-03-green-transition.mp4",
+    "duration": 89.966667,
+    "bytes": 69784267,
+    "sha256": "61466049d3b0e9b1c844a20e239e6d18947253d59b0e5a1c0d3787d6dad0cfb3",
+    "max_silence": 0.7437500000000021
+  },
+  {
+    "id": "20261003-short-finance",
+    "name": "재정 · 소비쿠폰",
+    "url": "20261003-short-finance.mp4",
+    "duration": 102.566667,
+    "bytes": 51369652,
+    "sha256": "481a795654b5b9058408c973178dc34045fc01dd420a45176ad8b6a46690538d",
+    "max_silence": 0.8912910000000025
+  },
+  {
+    "id": "20261003-short-housing",
+    "name": "주택 · 대출 규제",
+    "url": "20261003-short-housing.mp4",
+    "duration": 101.833333,
+    "bytes": 30058330,
+    "sha256": "c2146951ade6c364d0302fec79fd2d46216e2fe9c3fe5f7a40b604becf8c3a96",
+    "max_silence": 0.8955409999999997
+  },
+  {
+    "id": "20261003-short-power",
+    "name": "수사기관 · 권력 개편",
+    "url": "20261003-short-power.mp4",
+    "duration": 97.333333,
+    "bytes": 42389459,
+    "sha256": "50b7ff589d27c89d5155e2853d2d1a196dcf6bff11a3a90926d4707a0549826b",
+    "max_silence": 0.8855620000000002
+  },
+  {
+    "id": "20261003-longform",
+    "name": "롱폼 · 세 가지 이의제기",
+    "url": "https://github.com/Glohub-BK/legend-koreanews-preview/releases/download/audio-continuity-20261010/20261003-longform.mp4",
+    "duration": 577.133333,
+    "bytes": 293082987,
+    "sha256": "04633aca9194788d62bfa6c76424594536eb25f20604dbab0daf3607f915e254",
+    "max_silence": 1.1943749999999795
+  }
+]
