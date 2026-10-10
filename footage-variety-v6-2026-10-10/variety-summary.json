@@ -1,0 +1,189 @@
+[
+  {
+    "id": "20261010-01-future-fund",
+    "shots": 18,
+    "unique_original_videos": 2,
+    "independent_photo_originals": 4,
+    "video_fraction": 0.791,
+    "longest_photo_seconds": 3.0,
+    "longest_moving_shot_seconds": 6.8,
+    "original_ids": [
+      "FB1",
+      "FB2",
+      "FP1",
+      "FP2",
+      "FP3",
+      "FP4"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261010-03-information-sharing",
+    "shots": 19,
+    "unique_original_videos": 4,
+    "independent_photo_originals": 1,
+    "video_fraction": 0.899,
+    "longest_photo_seconds": 3.0,
+    "longest_moving_shot_seconds": 6.0,
+    "original_ids": [
+      "ARMY-PHOTO",
+      "DV2",
+      "DV3",
+      "DV4",
+      "DV5"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261010-02-farmland",
+    "shots": 19,
+    "unique_original_videos": 3,
+    "independent_photo_originals": 3,
+    "video_fraction": 0.733,
+    "longest_photo_seconds": 3.0,
+    "longest_moving_shot_seconds": 6.733333333333333,
+    "original_ids": [
+      "AP1",
+      "AP2",
+      "OLD-FARM",
+      "PX14606580",
+      "PX34617807",
+      "PX4280455"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261008-02-housing",
+    "shots": 21,
+    "unique_original_videos": 2,
+    "independent_photo_originals": 1,
+    "video_fraction": 0.823,
+    "longest_photo_seconds": 3.0,
+    "longest_moving_shot_seconds": 6.3,
+    "original_ids": [
+      "P11",
+      "PX28750645",
+      "V11"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261008-03-green-transition",
+    "shots": 17,
+    "unique_original_videos": 6,
+    "independent_photo_originals": 0,
+    "video_fraction": 1.0,
+    "longest_photo_seconds": 0,
+    "longest_moving_shot_seconds": 6.3,
+    "original_ids": [
+      "ENERGY0",
+      "ENERGY1",
+      "ENERGY2",
+      "ENERGY3",
+      "ENERGY4",
+      "ENERGY5"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261008-01-independence",
+    "shots": 22,
+    "unique_original_videos": 1,
+    "independent_photo_originals": 0,
+    "video_fraction": 1.0,
+    "longest_photo_seconds": 0,
+    "longest_moving_shot_seconds": 6.1,
+    "original_ids": [
+      "V10"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261003-short-finance",
+    "shots": 25,
+    "unique_original_videos": 6,
+    "independent_photo_originals": 4,
+    "video_fraction": 0.767,
+    "longest_photo_seconds": 3.0,
+    "longest_moving_shot_seconds": 6.0,
+    "original_ids": [
+      "P01",
+      "P08",
+      "P09",
+      "P10",
+      "PX29078492",
+      "PX32214387",
+      "PX36718309",
+      "PX36718310",
+      "PX37362904",
+      "V09"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261003-short-housing",
+    "shots": 24,
+    "unique_original_videos": 1,
+    "independent_photo_originals": 1,
+    "video_fraction": 0.764,
+    "longest_photo_seconds": 3.0,
+    "longest_moving_shot_seconds": 6.666666666666667,
+    "original_ids": [
+      "P11",
+      "V11"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261003-longform",
+    "shots": 132,
+    "unique_original_videos": 10,
+    "independent_photo_originals": 7,
+    "video_fraction": 0.87,
+    "longest_photo_seconds": 3.0,
+    "longest_moving_shot_seconds": 6.566666666666666,
+    "original_ids": [
+      "FB1",
+      "FP3",
+      "FP4",
+      "P01",
+      "P08",
+      "P09",
+      "P10",
+      "P11",
+      "PX28750645",
+      "PX29078492",
+      "PX32214387",
+      "PX36718309",
+      "PX36718310",
+      "PX37362904",
+      "V09",
+      "V10",
+      "V11"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  },
+  {
+    "id": "20261003-short-power",
+    "shots": 25,
+    "unique_original_videos": 1,
+    "independent_photo_originals": 0,
+    "video_fraction": 1.0,
+    "longest_photo_seconds": 0,
+    "longest_moving_shot_seconds": 6.0,
+    "original_ids": [
+      "V10"
+    ],
+    "same_original_reused_across_cuts": true,
+    "notes": "Different source ranges/camera views count as cuts, not independent original videos. Recaps and multiple discussions can revisit an event. No source video loop or frozen-tail padding."
+  }
+]

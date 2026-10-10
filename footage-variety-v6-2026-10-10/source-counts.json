@@ -1,0 +1,14 @@
+{
+  "registered_candidate_files": 42,
+  "unused_downloaded_videos": [
+    "DV1"
+  ],
+  "selected_source_files": 41,
+  "deduplicated_used_originals": 37,
+  "used_original_videos": 24,
+  "independent_photos": 13,
+  "timeline_cut_uses": 322,
+  "scene_montages": 95,
+  "still_video_frames_counted_as_photos": 0,
+  "clarification": "KTV opening footage exists as five recorded ranges of ONE original, not five originals; per-episode counts do not add to batch originals. Source attribution, audio removal and archive dates are preserved."
+}
