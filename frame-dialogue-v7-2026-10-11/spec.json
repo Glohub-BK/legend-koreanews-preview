@@ -1,0 +1,74 @@
+{
+  "version": 7,
+  "status": "registered default from latest user design request; examples available for review",
+  "requested_at": "2026-10-10",
+  "prepared_at": "2026-10-11",
+  "preserve_original_background": true,
+  "shorts": {
+    "canvas": [
+      1080,
+      1920
+    ],
+    "media": [
+      0,
+      280,
+      1080,
+      1280
+    ],
+    "caption": [
+      64,
+      1135,
+      824,
+      180
+    ],
+    "caption_font_px": 72,
+    "credit": [
+      530,
+      1425,
+      358,
+      80
+    ],
+    "credit_font_px": 24
+  },
+  "longform": {
+    "canvas": [
+      1920,
+      1080
+    ],
+    "media": [
+      192,
+      144,
+      1536,
+      864
+    ],
+    "caption": [
+      270,
+      807,
+      1080,
+      145
+    ],
+    "caption_font_px": 56,
+    "credit": [
+      1370,
+      932,
+      310,
+      66
+    ],
+    "credit_font_px": 20
+  },
+  "caption_policy": "intentional overlay on media; no box; full-width lower image shade; face/native subtitle/credit intersections zero",
+  "audio_policy": "one 3s opening CTA, dialogue takes priority; no narrator over original speech; optional context before/after complete utterance",
+  "audio_preview": {
+    "cta_voice": "Yuna local temporary review voice",
+    "cta_spoken_line": "구독과 좋아요로 함께해 주세요.",
+    "cta_start": 0.48,
+    "cta_duration": 1.970431,
+    "source_dialogue_start": 3,
+    "source_dialogue_duration": 12.8,
+    "total_duration": 15.8,
+    "background_music": false
+  },
+  "portrait_fit": "contain; full original photograph retained",
+  "numerical_graphics": "do not cover face/native captions; during dialogue use only verified small keyword highlights; explanatory numeric scenes separate from spoken original where necessary",
+  "precedence": "latest user request intentionally supersedes v5 media-caption intersection-zero rule; frame examples verified before registration; final episode render and publication follow their own QA"
+}
