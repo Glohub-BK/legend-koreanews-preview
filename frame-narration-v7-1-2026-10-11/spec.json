@@ -1,0 +1,75 @@
+{
+  "version": "7.1",
+  "status": "registered — sparse text with approved narration",
+  "requested_at": "2026-10-10",
+  "prepared_at": "2026-10-11",
+  "preserve_original_background": true,
+  "shorts": {
+    "canvas": [
+      1080,
+      1920
+    ],
+    "media": [
+      0,
+      280,
+      1080,
+      1280
+    ],
+    "caption": [
+      64,
+      1135,
+      824,
+      180
+    ],
+    "caption_font_px": 72,
+    "credit": [
+      530,
+      1425,
+      358,
+      80
+    ],
+    "credit_font_px": 24
+  },
+  "longform": {
+    "canvas": [
+      1920,
+      1080
+    ],
+    "media": [
+      192,
+      144,
+      1536,
+      864
+    ],
+    "caption": [
+      270,
+      807,
+      1080,
+      145
+    ],
+    "caption_font_px": 56,
+    "credit": [
+      1370,
+      932,
+      310,
+      66
+    ],
+    "credit_font_px": 20
+  },
+  "caption_policy": "intentional overlay on media; no box; full-width lower image shade; face/native subtitle/credit intersections zero",
+  "audio_policy": "reuse exact approved existing narration at approved rate/tone; no new TTS; source speech in separate selected intervals only, without competing narration",
+  "audio_preview": {
+    "source_episode": "20261010-01-future-fund",
+    "source_mix": "assets/channel/revisions/2026-10-10-footage-variety-v6/20261010-01-future-fund/assets/approved-mix.m4a",
+    "source_in": 0,
+    "source_out": 11.933333,
+    "narration_start": 1,
+    "total_duration": 12.933333,
+    "new_voice_generation": false,
+    "cta": "icons/text only 1s; owned SFX only, no CTA voice"
+  },
+  "portrait_fit": "contain; full original photograph retained",
+  "numerical_graphics": "do not cover face/native captions; during dialogue use only verified small keyword highlights; explanatory numeric scenes separate from spoken original where necessary",
+  "precedence": "latest user request intentionally supersedes v5 media-caption intersection-zero rule; frame examples verified before registration; final episode render and publication follow their own QA",
+  "text_policy": "channel name + speech-synced essential captions + small source/date only; remove explanatory headline, speaker banner, courtesy line and static descriptive caption"
+}
