@@ -28,7 +28,12 @@
       358,
       80
     ],
-    "credit_font_px": 24
+    "credit_font_px": 24,
+    "shot_reframe": {
+      "FP4": "full original retained",
+      "FB1": "1080x1080 centered at4–9s; 50% crop preserves both faces",
+      "FB2": "1080x1280 at9–12.933333s; 54% crop"
+    }
   },
   "longform": {
     "canvas": [
